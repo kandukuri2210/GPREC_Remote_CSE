@@ -3,3 +3,6 @@
 "EEE Branch"
 "CIV Branch"
 "CSBS"
+"MEC branch"
+"AI ans ML"
+
