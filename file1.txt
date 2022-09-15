@@ -1,2 +1,3 @@
 "CSE Branch"
 "ECE Branch"
+"EEE Branch"
