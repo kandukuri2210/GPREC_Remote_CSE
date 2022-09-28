@@ -1,1 +1,3 @@
-"a=int(input()) print(a)"
+#A sample python code with dynamic inputs
+a=int(input())
+print(a)
