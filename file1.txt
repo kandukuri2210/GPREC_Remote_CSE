@@ -8,3 +8,4 @@ The branches in GPREC are:
 "MEC branch"
 "AI ans ML"
 There are some other branches in GPREC like CST.
+The different branches have different hods, and different syllabus followed.
