@@ -1,3 +1,5 @@
+                                                    GPREC
+The branches in GPREC are:
 "CSE Branch"
 "ECE Branch"
 "EEE Branch"
@@ -5,4 +7,4 @@
 "CSBS"
 "MEC branch"
 "AI ans ML"
-
+There are some other branches in GPREC like CST.
